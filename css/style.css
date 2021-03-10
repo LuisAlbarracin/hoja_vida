@@ -1,0 +1,33 @@
+h1 {
+  text-align: center;
+  color: red;
+}
+
+h3 {
+  text-align: center;
+}
+
+header,
+nav,
+div {
+  margin: auto;
+  width: 50%;
+}
+
+img {
+  width: 1000px;
+  height: 200px;
+}
+
+audio{
+    width: 100%;
+}
+
+table,
+th,
+td {
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+
+
